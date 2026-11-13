@@ -1,0 +1,1 @@
+- [aiosqlite connection lifecycle](aiosqlite-connection-lifecycle.md) — use one async context manager to open and configure each connection.
